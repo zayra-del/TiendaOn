@@ -1,5 +1,5 @@
 <?php 
-	//const BASE_URL = "https://sakurashop.com/store";
+	//const BASE_URL = "https://sakurashop.com";
 	const BASE_URL = "http://localhost/tiendaOn";
 
 	//Zona horaria
