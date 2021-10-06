@@ -72,6 +72,9 @@ Escogemos la version 7.2.25 de Php y la version 8.0.18 de MySQL
 
 Luego de escoger las versiones de php y MySQL damos clic en siguinte y esperamos a que termine de intalar 
 
+![image](https://user-images.githubusercontent.com/60948379/136290053-9a333100-0598-4e07-a9e9-78a9891f995d.png)
+![Uploading image.png…]()
+
 Paso #12 
 cuando la descarga termine abrimos nuestra aplicacion de WampServer
 ![image](https://user-images.githubusercontent.com/60948379/134779914-21306d55-5781-4985-b2d0-dfdd60781967.png)
