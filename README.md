@@ -90,8 +90,14 @@ Paso #12
 cuando la descarga termine abrimos nuestra aplicacion de WampServer
 ![image](https://user-images.githubusercontent.com/60948379/134779914-21306d55-5781-4985-b2d0-dfdd60781967.png)
 
-Espersamos a que se ejecute y vereficamos que se muestre nuestro WampServer en la barra de tareas
-![image](https://user-images.githubusercontent.com/60948379/134779999-89e16776-1881-43d7-a69f-1af46f7f1ad3.png)
+Espersamos a que se ejecute (se mostrara varias ventas como la de la imagen)
+
+![image](https://user-images.githubusercontent.com/60948379/136292362-6260b90c-10b7-4f4d-b86f-88099c5dd9e4.png)
+
+
+y por ultimo vereficamos que se muestre nuestro WampServer en la barra de tareas
+![image](https://user-images.githubusercontent.com/60948379/136292463-8338c837-d65c-41ff-bc16-d9f295ec0692.png)
+
 
 paso #13
 para verficar si esta funcionado abrimos nuetro navegador coloacamos localhost 
