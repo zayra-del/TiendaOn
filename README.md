@@ -73,7 +73,18 @@ Escogemos la version 7.2.25 de Php y la version 8.0.18 de MySQL
 Luego de escoger las versiones de php y MySQL damos clic en siguinte y esperamos a que termine de intalar 
 
 ![image](https://user-images.githubusercontent.com/60948379/136290053-9a333100-0598-4e07-a9e9-78a9891f995d.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/60948379/136291063-34cc930c-6fe5-4303-b3d8-cdaeeb0828d4.png)
+
+-Escogemos el navegador que deseamos utilizar.
+![image](https://user-images.githubusercontent.com/60948379/136291652-e836cb27-57f2-4912-835e-59098e7c9f77.png)
+
+en mi caso escogere el navegador de google chrome y damos click en abrir 
+![image](https://user-images.githubusercontent.com/60948379/136291804-144a59d9-2760-43c0-85ac-5450979846c3.png)
+
+-También nos pedira el tipo de editor que deseamos pero en este caso le damos en cancelar
+
+![image](https://user-images.githubusercontent.com/60948379/136291983-50a2b1cb-2c68-4352-802a-57ae10c19721.png)
+
 
 Paso #12 
 cuando la descarga termine abrimos nuestra aplicacion de WampServer
