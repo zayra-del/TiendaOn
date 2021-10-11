@@ -1,7 +1,19 @@
 Proyecto de graduacion Zayra Moscoso Cruz
+
 Desarrollo e implentacion de una tienda online para venta de productos en la empresa Sakua Shop
 
+Link de la tienda online 
+
+https://sakurashopgt.sakurashopsgt.com/
+
+Claves de Sesión
+
+-Usuario: zayrimoscoso@gmail.com
+
+-contraseña: 123456
+
 Instalacion Local
+
 1. Instalacion de WampServer
 Un software que incluye los paquetes de Php, apache y MySQL
 Link : https://www.wampserver.com/en/
