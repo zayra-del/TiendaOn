@@ -4,7 +4,7 @@ Desarrollo e implentacion de una tienda online para venta de productos en la emp
 
 Link de la tienda online 
 
-https://sakurashopgt.sakurashopsgt.com/
+https://sakurashopsgt.com/
 
 Claves de Sesión
 
